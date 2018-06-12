@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[object Object] render matches snapshot 1`] = `undefined`;
+
+exports[`[object Object] render renders w/o crashing 1`] = `undefined`;
